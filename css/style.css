@@ -786,7 +786,7 @@ body {
   }
 
   .header__helpers-icon {
-    top: 227px;
+    top: 223px;
     display: flex;
     justify-content: center;
   }
@@ -898,6 +898,7 @@ body {
   }
 
   .content .collection {
+    background-image: none;
     background: none;
   }
 
