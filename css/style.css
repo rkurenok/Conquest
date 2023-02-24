@@ -951,7 +951,7 @@ body {
     max-width: 262px;
   }
 
-  .webp .content .collection {
+  .webp .content .collection.strong-collection {
     background-image: none;
     background: none;
   }
