@@ -838,11 +838,6 @@ body {
     background: none;
   }
 
-  .webp .content .collection {
-    background-image: none;
-    background: none;
-  }
-
   .footer__row {
     flex-direction: column;
     align-items: center;
@@ -954,6 +949,11 @@ body {
 
   .content .follow-news.follow .column__collage img {
     max-width: 262px;
+  }
+
+  .webp .content .collection {
+    background-image: none;
+    background: none;
   }
 }
 
