@@ -838,6 +838,11 @@ body {
     background: none;
   }
 
+  .webp .content .collection {
+    background-image: none;
+    background: none;
+  }
+
   .footer__row {
     flex-direction: column;
     align-items: center;
